@@ -1,0 +1,15 @@
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.exe
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.deps.json
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.runtimeconfig.json
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.dll
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\bin\Debug\net6.0\ProjetoPOO.pdb
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.csproj.AssemblyReference.cache
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.dll
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\refint\ProjetoPOO.dll
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.pdb
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ProjetoPOO.genruntimeconfig.cache
+C:\Users\VitielloNaVoz\Desktop\dev\projetos\av2-conceitos-de-linguagem-de-programacao\ProjetoPOO\ProjetoPOO\obj\Debug\net6.0\ref\ProjetoPOO.dll
